@@ -39,7 +39,7 @@ is_student = True  # is_student is a boolean (bool)
 x = 10
 y = float(x)    # Convert int to float (10 -> 10.0)
 z = str(x)      # Convert int to string (10 -> "10")
-p
+
 # Common typecasting functions:
 # - int(): Converts to integer
 # - float(): Converts to float

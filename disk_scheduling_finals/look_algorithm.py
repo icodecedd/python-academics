@@ -5,7 +5,7 @@ from colorama import Fore
 import time
 import os
 import pyfiglet
-import tkinteri
+import tkinter
 
 def group_credits():
     os.system("cls")
