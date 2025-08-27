@@ -1,13 +1,19 @@
-# Python Practice Projects
+# Python Academic Practice Repository
 
-This repository contains a collection of practical Python programming projects, designed to strengthen my understanding of Python programming concepts and improve problem-solving skills.
+This repository contains a collection of academic exercises and projects in Python, created to strengthen understanding of programming concepts and improve problem-solving skills taught in class.
 
-## Overview
+## 📘 Overview
 
-Each project focuses on different aspects of Python development, such as:
+Each folder is organized to highlight different areas of Python learning and coursework:
 
-- **Data Structures** – Implementations using arrays, lists, dictionaries, sets, etc.
-- **Algorithms** – Sorting, searching, and logic-based problem-solving.
-- **File Handling** – Reading from and writing to files.
-- **GUI Applications** – Desktop applications using `Tkinter`, or similar libraries.
+- **Data Structures** – Exercises involving arrays, lists, dictionaries, sets, and other Python data types.
+- **Algorithms** – Practice problems covering sorting, searching, and logic-based solutions.
+- **File Handling** – Academic activities focused on reading, writing, and managing data in files.
+- **GUI Applications** – Hands-on projects building desktop applications using `Tkinter` or similar libraries.  
 
+## 🎯 Purpose
+
+This repository serves as:
+- A record of Python programming lessons and exercises from class  
+- A practice ground for applying theoretical knowledge to code  
+- A reference hub for reviewing concepts and strengthening coding proficiency  
