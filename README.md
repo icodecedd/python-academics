@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/IDE-PyCharm%20%7C%20VS%20Code-007ACC?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm | VS Code">
   <img src="https://img.shields.io/badge/Focus-Academic%20Learning-4CAF50?style=for-the-badge" alt="Academic Learning">
 </p>
 
@@ -57,9 +57,9 @@ Developed as part of coursework, this repository serves as a hands-on learning r
   <em>Required for running the exercises</em>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" alt="VS Code"><br>
-  <strong>VS Code</strong><br>
-  <em>Recommended IDE for development</em>
+  <img src="https://img.shields.io/badge/IDE-PyCharm%20%7C%20VS%20Code-007ACC?style=for-the-badge&logo=pycharm" alt="PyCharm | VS Code"><br>
+  <strong>PyCharm or VS Code</strong><br>
+  <em>Recommended IDEs for development</em>
 </td>
 </tr>
 </table>
@@ -98,12 +98,28 @@ For exercises using `numpy` or `pandas`:
 pip install numpy pandas
 ```
 
-### Step 4: Run Exercises
+### Step 4: Set Up IDE
+#### Option 1: PyCharm
+1. Download and install [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/).
+2. Open PyCharm and select **Open** to load the repository folder as a project.
+3. Configure the Python interpreter:  
+   - Go to `File > Settings > Project > Python Interpreter`.  
+   - Add your installed Python version if not already configured.
+
+#### Option 2: VS Code
+1. Download and install [Visual Studio Code](https://code.visualstudio.com/download).
+2. Install the Python extension for VS Code (by Microsoft).
+3. Open the repository folder in VS Code (`File > Open Folder`).
+4. Select your Python interpreter:  
+   - Press `Ctrl+Shift+P`, type `Python: Select Interpreter`, and choose your Python 3.8+ installation.
+
+### Step 5: Run Exercises
 - Navigate to subdirectories (e.g., `data_structures/`, `algorithms/`, `gui_applications/`).
 - Run a Python script:
   ```bash
   python data_structures/list_exercise.py
   ```
+  Or use the IDE’s run button (PyCharm: green triangle, VS Code: run code).
 - Each `.py` file includes comments explaining the problem and solution.
 
 ---
